@@ -6,23 +6,27 @@ Na Moura Dubeux, maior incorporadora do Nordeste, liderei o canal digital respon
 
 Agora quero **construir a base técnica** (programação, estatística e bancos de dados) para ir além das planilhas e dashboards e fazer análises mais profundas e assertivas.
 
-## 🎯 O que busco
+## O que busco
 Uma oportunidade de **estágio em dados** para aprender a técnica na prática, aprofundar minha relação com os dados e somar com a visão de negócio que trago do mercado.
 
-## 📚 Estudando agora
+## Estudando agora
 - Python para análise de dados
 - SQL
 - Estatística descritiva
 
 ## 🛠️ Ferramentas
 **Dados:** `Python` `SQL` `DBeaver` `Power BI` `Looker Studio` `GA4` `Excel` `Git`
+
 **IA e automação:** `Claude Code` (favorita 💜) `n8n`
+
 **CRM:** `Dynamics 365` `HubSpot` `RD Station` `CV CRM` `Anapro`
+
 **Marketing:** `Google Ads` `Meta Ads` `Canva`
+
 **Gestão:** `Scrum` `Kanban` `Notion` `Trello` `Asana` `Miro`
 
-## 📂 Por aqui você encontra
+## Por aqui você encontra
 Meus exercícios e projetos da faculdade e dos cursos, atualizados ao longo da minha jornada.
 
 ## 📫 Contato
-[LinkedIn](https://linkedin.com/in/marianacorreianeves) · maribcneves@gmail.com
+[LinkedIn](https://linkedin.com/in/marianacorreianeves) · mbcn@cesar.school
