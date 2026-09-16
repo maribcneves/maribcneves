@@ -15,13 +15,13 @@ Uma oportunidade de **estágio em dados** para aprender a técnica na prática, 
 - Estatística descritiva
 
 ## 🛠️ Ferramentas
-**Dados:** `Python` `SQL` `DBeaver` `Power BI` `Looker Studio` `GA4` `Excel` `Git`
+**Dados:** `Python` `SQL` `DBeaver` `Power BI` `Data Studio` `GA4` `Excel` `Git`
 
 **IA e automação:** `Claude Code` (favorita 💜) `n8n`
 
-**CRM:** `Dynamics 365` `HubSpot` `RD Station` `CV CRM` `Anapro`
+**CRM:** `Dynamics 365` `HubSpot` `CV CRM` `Anapro`
 
-**Marketing:** `Google Ads` `Meta Ads` `Canva`
+**Marketing:** `Google Ads` `Meta Ads` `Canva` `RD Station`
 
 **Gestão:** `Scrum` `Kanban` `Notion` `Trello` `Asana` `Miro`
 
