@@ -7,7 +7,7 @@ Na Moura Dubeux, maior incorporadora do Nordeste, liderei o canal digital respon
 Agora quero **construir a base técnica** (programação, estatística e bancos de dados) para ir além das planilhas e dashboards e fazer análises mais profundas e assertivas.
 
 ## O que busco
-Uma oportunidade de **estágio em dados** para aprender a técnica na prática e somar com a visão de negócio que trago do mercado.
+Uma oportunidade na área **de dados** para aplicar a técnica de análise de dados e somar com a visão de negócio que trago do mercado.
 
 ## Estudando agora
 - Python para análise de dados
