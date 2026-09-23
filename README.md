@@ -4,7 +4,7 @@ Estudante de **Banco de Dados com ênfase em Ciência de Dados e IA** na CESAR S
 
 Na Moura Dubeux, maior incorporadora do Nordeste, liderei o canal digital responsável por **20% das vendas da empresa**. Foi lá que pratiquei sobre a importância de usar dados para orientar decisões: relatórios de performance, CRM, tratamento de bases com mais de 170 mil leads e a implantação de 3 soluções com IA generativa.
 
-Agora quero **construir a base técnica** (programação, estatística e bancos de dados) para ir além das planilhas e dashboards e fazer análises mais profundas e assertivas.
+Agora estou na **construção da base técnica** (programação, estatística e bancos de dados) para ir além das planilhas e dashboards e fazer análises mais profundas e assertivas.
 
 ## O que busco
 Uma oportunidade na área **de dados** para aplicar a técnica de análise de dados e somar com a visão de negócio que trago do mercado.
